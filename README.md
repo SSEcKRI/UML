@@ -1,5 +1,8 @@
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong><span style="color: #97a82a; text-decoration: underline;">UseCase</span></strong></span></h2>
-<p style="text-align: right;"><span style="color: #000;">работы выполнял </span></p>
-<p style="text-align: right;"><span style="color: #97a82a;">СЕРГЕЕВ Н. И.</span></p>
-<p style="text-align: center;"><span style="text-align: center; color: #0000ff;"><span style="color: #000;">Для запуска требуется скачать файл и вставить в <a href="https://app.diagrams.net" target="_blank" rel="noopener">редактор диаграм</a>.</span></span></p>
-<p style="text-align: center;"><span style="color: #000;"></span></p>
+# Usecase 
+> Диаграмма вариантов использования – диаграмма, описывающая, какой функционал разрабатываемой программной системы доступен каждой группе пользователей.
+## Как использовать
+1. Выбрать нужную ветку.
+2. Загрузить .drawio файл из репозитория.
+3. Открыть файл через [редактор диаграм](https://app.diagrams.net/)
+## Сделал
+Сергеев Н.И.
